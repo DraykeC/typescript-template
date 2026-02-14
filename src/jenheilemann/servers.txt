@@ -1,0 +1,14 @@
+Rooted:
+1-n00dles
+2-foodnstuff
+2.1-nectar-net
+3-sigma-cosmetics
+4-joesguns
+5-hong-fang-tea
+6-harakiri-sushi
+
+Not:
+1.1-CSEC
+2.2-max-hardware
+6.1-zer0
+7-iron-gym

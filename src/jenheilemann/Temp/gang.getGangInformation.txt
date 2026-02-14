@@ -1,0 +1,1 @@
+{"faction":"Slum Snakes","isHacking":false,"moneyGainRate":97714592944.45259,"power":3011573.159468486,"respect":2665563068055.257,"respectGainRate":2388439.5466422527,"respectForNextRecruit":null,"territory":1,"territoryClashChance":0,"territoryWarfareEngaged":false,"wantedLevel":1515.2522864102161,"wantedLevelGainRate":0.00017734854795889988,"wantedPenalty":0.999999999431545}
